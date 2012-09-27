@@ -1,4 +1,0 @@
-KISSY.add(function(S){
-    var a = 'GBKÖÐÎÄ';
-    return 'utils-sample-index.js';
-});
